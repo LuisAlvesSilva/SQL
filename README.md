@@ -1,5 +1,7 @@
 # SQL
 
+## Select
+
 ### SELECT simples
 O comando SELECT permite recuperar os dados de um objeto do banco de dados, como uma tabela, view e, em alguns casos, uma stored procedure (alguns bancos de dados permitem a criação de procedimentos que retornam valor). A sintaxe mais básica do comando é:
 
